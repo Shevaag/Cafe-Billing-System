@@ -1,0 +1,15 @@
+Espresso, 300
+Americano, 350
+Latte, 400
+Cappuccino, 400
+Mocha, 450
+Flat White, 450
+Macchiato, 350
+Cold Brew, 500
+Iced Latte, 450
+Iced Americano, 400
+Hot Chocolate, 400
+Chai Latte, 450
+Croissant, 250
+Muffin, 300
+Bagel with Cream Cheese, 350Donut, 300.0
